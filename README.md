@@ -1,69 +1,49 @@
-## Oiii world, eu sou a Camila
-
-
-
-- 🔭 Front-end 
- 
-- 📫 Meu email para contato é camilagranato_@hotmail.com
-- 😄 Pronome:Ela/dela
-
-<h2 align="left">Hi world, my name is Camila 👋!</h2>
-
-###
-
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=CamilaGranato&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=CamilaGranato&locale=en&hide_title=true&layout=compact&card_width=320&langs_count=6&theme=radical&hide_border=true" height="159" alt="languages graph"  />
-</div>
-
-###
-
-<img align="right" height="150" src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExeDRheTFqZGlzemlxbTAwam1peGpicmJ4bXFodmpndWFrMTRkaDRibyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/HscDLzkO8EOTmgkhQP/giphy.gif"  />
-
-###
-
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="30" alt="typescript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="30" alt="react logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30" alt="html5 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="30" alt="css3 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" alt="python logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="30" alt="csharp logo"  />
-</div>
-
-###
-
-<div align="left">
-  <a href="www.linkedin.com/in/camila-granato" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
-  </a>
-  <a href="https://discord.com/channels/@camila_granato" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/discord/default.svg" width="52" height="40" alt="discord logo"  />
-  </a>
-  <a href="14998158391" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/whatsapp/default.svg" width="52" height="40" alt="whatsapp logo"  />
-  </a>
-</div>
-
-###
-  
-  <div align=center style="display: inline_block"><br>
-  <img align="center" alt="Camila-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="center" alt="Camila-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="Camila-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-</div>
-
-  ##
-  
-<div align=center> 
-  <a href=https://www.instagram.com/_camilagranato/target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
-  <a href="https://www.linkedin.com/in/camila-granato" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&height=100&color=FFCFE9"/>
  
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=9E4C98&random=false&width=435&lines=Hello+People%2C+I'm+Gabriela+Bade+%F0%9F%98%8E" alt="Typing SVG" /></a>
+
+Atualmente estou aprendendo e criando projetos com:
+<br>
+<br>
+<br>
+[![My Skills](https://skillicons.dev/icons?i=html,css,js,ts,nodejs,react,github,git,docker,postgresql,mongodb,linux)](https://skillicons.dev)
+<!--
+ <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="html-logo"/>
+
+ <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="css-logo"/>
+
+ <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"> 
+<br>
+-->
+<!--
+[![Camila stats](https://github-readme-stats.vercel.app/api?username=camila_granato)](https://github.com/anuraghazra/github-readme-stats)
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true)
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=radical) -->
+
+<br>
+<br>
+<br>
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=camila_granato&layout=compact)](https://github.com/camila_granato/github-readme-stats)
+<br>
+<br>
+<br>
+
+### Connect with me:
+
+<a href="https://www.linkedin.com/in/www.linkedin.com/in/camila_granato/"> <img src="https://cdn-icons-png.flaticon.com/512/4494/4494497.png" alt="linkedin-logo" width="35px"></a>
+<a href="https://wa.me/5548991056014"> <img src="https://github.com/camila_granato/camila_granatoassets/129114102/fe61333e-f51d-4691-9558-d8b718253424" alt="whats-logo" width="35px"></a>
+
+
+
+
+![](https://komarev.com/ghpvc/?username=camila&label=PROFILE+VIEWS&color=ff69b4)
+
+<a href="https://github.com/camila_granato/github-readme-activity-graph">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=camila_granato&theme=Default" alt="Ashutosh's github activity graph" style="width: 50vw; height: 30vh;">
+</a>
+
 </div>
